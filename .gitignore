@@ -1,0 +1,6 @@
+.DS_Store
+
+target/
+jpackage/
+src/test/
+Hyperpuzzle.iml
